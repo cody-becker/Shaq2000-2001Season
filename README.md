@@ -1,4 +1,4 @@
-Shaquille O’Neal 2000–01 Play‑By‑Play Stat Engine
+#Shaquille O’Neal 2000–01 Play‑By‑Play Stat Engine
 
 This project reconstructs Shaquille O’Neal’s entire 2000–01 NBA season directly from raw play‑by‑play data.
 Instead of relying on box scores, the pipeline extracts every major stat by interpreting the event log itself — points, rebounds, assists, steals, blocks, and a Game Score–style metric.
